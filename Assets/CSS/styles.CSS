@@ -1,0 +1,13 @@
+
+
+body { background-image: url("../img/fnd3.jpg");
+    background-repeat: no-repeat; 
+    background-size: cover; }
+
+
+h1 { background-color: #FC9804; 
+     color: #af03f3;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-style: italic;}
+
+h2 { color: #f30303;}
