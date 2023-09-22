@@ -1,14 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Croissant+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
+body { font-family: 'Mulish', sans-serif;
+       text-align: center;}
 
 h1 { color: aqua;
-     font-family: 'Croissant One', cursive;
-     font-style: italic;
-     text-align: center;}
+      text-transform: uppercase;}
 
-h3 { text-align: center;}
-
+h3 { font-weight: bold;}
 
 img { margin: auto;
     display: block;
@@ -17,8 +16,36 @@ img { margin: auto;
 
 p { text-align: justify;}
 
-h4 { color: #60BFA4;
-     font-family: 'Roboto', sans-serif;
+h2 { color: #60BFA4;
      text-align: right;}
 
 h5 { text-align: right;}
+
+ul { font-size: 42pt;
+     font-weight: 700;
+     color: #60BFA4;
+     list-style-image: url(../img/arrow.png);
+     list-style-position: inside;}
+
+li { font-size: 12pt;
+     text-align: left;
+     font-weight: 200;
+     color: black;
+     }
+
+table { width: 100%;
+        border-collapse: collapse;
+        border: 4px solid black;}
+
+th { background-color: #60BFA4;
+     color: white;
+     border-collapse: collapse;
+     height: 55px;
+     border: 4px solid black;
+}
+td { text-align: left;
+     height: 50px;
+     border-collapse: collapse;
+     border: black;
+     border: 4px solid black;
+}
