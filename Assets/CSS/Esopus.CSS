@@ -1,0 +1,16 @@
+th {font-family: 'Times New Roman', Times, serif;
+color: white;
+font-size: 24pt;
+text-align: left;
+margin: 15px;}
+
+td {text-align: justify;
+color: white;
+margin: 15px;}
+
+table {background-color: #18a484;
+    border: 5px dashed yellow;
+    margin: 15px;}
+
+a {color: yellow;}
+
