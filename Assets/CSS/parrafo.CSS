@@ -1,0 +1,20 @@
+.azul { color: #5882fa;}
+
+.amarillo { color: #ffbf00}
+
+h2 { color: #ff0000;
+    font-style:normal ;
+    font-size: x-large;}
+
+#ali { text-align: right;}
+
+.homero {font-style: italic;
+        text-decoration: underline;
+        color: #fcfc34}
+
+.esopo { width: 800px;
+        background-color: #15a085;
+        margin: 50px autoo;
+        border:4px dashed #fcfc34;
+        padding: 30px 30px 30px 30px;
+        color: #ffffff;}
